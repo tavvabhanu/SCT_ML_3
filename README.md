@@ -61,7 +61,7 @@ Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 Notebook: Jupyter (Google Colab)
 📁 Files Included
 
-SCT_ML_1.ipynb: Complete notebook with data analysis, model training, and evaluation
+SCT_ML_3.ipynb: Complete notebook with data analysis, model training, and evaluation
 📬 Connect
 
 Feel free to explore the project and reach out for collaboration or feedback!
